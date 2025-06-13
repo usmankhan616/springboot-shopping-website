@@ -69,13 +69,10 @@ A fully functional e-commerce shopping website built using **Spring Boot**, **Th
 - User authentication & authorization (Spring Security)
 - Order history & order
 
----
-
 ## 🎥 Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/KEkVzz0t2AY/0.jpg)](https://youtu.be/KEkVzz0t2AY)
+[![Watch the video](pictures/youtubescreenshot.png)](https://youtu.be/KEkVzz0t2AY)
 
----
 ---
 
 📌 **Developer:** Usman Khan  
